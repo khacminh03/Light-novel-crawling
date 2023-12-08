@@ -1,0 +1,2 @@
+- This project using Beautiful soup in order to get data about a specific light novel you enter a Vietnamese version of that light novel this program will try to find the english version of that light novel it return the result for you
+- Only except url from "docln.net"
